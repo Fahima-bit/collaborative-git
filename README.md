@@ -8,3 +8,7 @@ Students:
 - Student B
 
 Department: CSE
+## Student B Contribution
+
+I have successfully pulled Student A's changes.
+This is my first contribution.
